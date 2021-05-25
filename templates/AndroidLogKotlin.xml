@@ -1,5 +1,5 @@
 <templateSet group="AndroidLogKotlin">
-  <template name="te" value="timber.log.Timber.e(&quot;vit $content$&quot;)" toReformat="false" toShortenFQNames="true">
+  <template name="te" value="timber.log.Timber.e(&quot;vit $content$&quot;)" description="" toReformat="false" toShortenFQNames="true">
     <variable name="content" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_STATEMENT" value="true" />

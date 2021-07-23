@@ -18,7 +18,9 @@
         <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_radio.xml" value="0.387037037037037" />
         <entry key="libraries/library-poll-vote/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="libraries/library-poll-vote/src/main/res/layout/poll_vote_item_view.xml" value="0.5206786850477201" />
+        <entry key="tv/src/main/res/layout/home_fragment.xml" value="0.24375" />
         <entry key="tv/src/main/res/layout/home_trending_item.xml" value="0.4169230769230769" />
+        <entry key="tv/src/main/res/layout/home_trending_media_item.xml" value="0.24375" />
         <entry key="tv/src/main/res/layout/lb_picker_item.xml" value="0.4169230769230769" />
         <entry key="tv/src/main/res/layout/lb_picker_separator.xml" value="0.4169230769230769" />
         <entry key="tv/src/main/res/layout/player_fragment.xml" value="0.24322916666666666" />

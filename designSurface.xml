@@ -10,6 +10,8 @@
         <entry key="features/feature-messenger/src/main/res/layout/component_input_comment_view.xml" value="0.24427083333333333" />
         <entry key="features/feature-messenger/src/main/res/layout/group_named_fragment.xml" value="0.1" />
         <entry key="features/feature-messenger/src/main/res/layout/layout_panel_sticker.xml" value="0.24427083333333333" />
+        <entry key="features/feature-post-detail/src/main/res/drawable/post_details_ic_arrow_left_24dp_black.xml" value="0.2851851851851852" />
+        <entry key="features/feature-post-detail/src/main/res/layout/post_details_fragment.xml" value="0.24444444444444444" />
         <entry key="features/feature-tooltips/src/main/res/layout/tooltips_comon_intro_layout.xml" value="0.24791666666666667" />
         <entry key="features/feature-tooltips/src/main/res/layout/tooltips_home_start_layout.xml" value="0.24791666666666667" />
         <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_bg_avatar.xml" value="0.43854166666666666" />
@@ -26,6 +28,8 @@
         <entry key="shared/shared-poll-vote/src/main/res/drawable/feeds_reacted_users_add_friend_bg.xml" value="0.2515625" />
         <entry key="shared/shared-poll-vote/src/main/res/drawable/feeds_reacted_users_ic_add_friend_21dp_white.xml" value="0.2515625" />
         <entry key="shared/shared-poll-vote/src/main/res/drawable/feeds_reacted_users_sent_add_friend_request_bg.xml" value="0.2515625" />
+        <entry key="shared/shared-poll-vote/src/main/res/drawable/poll_vote_ic_arrow_left_24dp_black.xml" value="0.2515625" />
+        <entry key="shared/shared-poll-vote/src/main/res/layout/poll_vote_creator_fragment.xml" value="0.23645833333333333" />
         <entry key="shared/shared-poll-vote/src/main/res/layout/poll_vote_voter_bottom_sheet_fragment.xml" value="0.24322916666666666" />
         <entry key="shared/shared-poll-vote/src/main/res/layout/poll_vote_voter_item.xml" value="0.24322916666666666" />
         <entry key="tv/src/main/res/layout/home_fragment.xml" value="0.24375" />

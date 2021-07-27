@@ -34,7 +34,7 @@
         <entry key="shared/shared-poll-vote/src/main/res/drawable/poll_vote_bg_add_poll_option_button.xml" value="0.2515625" />
         <entry key="shared/shared-poll-vote/src/main/res/drawable/poll_vote_bg_poll_option_input.xml" value="0.2515625" />
         <entry key="shared/shared-poll-vote/src/main/res/drawable/poll_vote_ic_arrow_left_24dp_black.xml" value="0.2515625" />
-        <entry key="shared/shared-poll-vote/src/main/res/layout/poll_vote_creator_fragment.xml" value="0.23645833333333333" />
+        <entry key="shared/shared-poll-vote/src/main/res/layout/poll_vote_creator_fragment.xml" value="0.4169230769230769" />
         <entry key="shared/shared-poll-vote/src/main/res/layout/poll_vote_voter_bottom_sheet_fragment.xml" value="0.24322916666666666" />
         <entry key="shared/shared-poll-vote/src/main/res/layout/poll_vote_voter_item.xml" value="0.24322916666666666" />
         <entry key="tv/src/main/res/layout/home_fragment.xml" value="0.24375" />

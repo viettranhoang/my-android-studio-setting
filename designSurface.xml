@@ -11,6 +11,7 @@
         <entry key="features/feature-messenger/src/main/res/layout/group_named_fragment.xml" value="0.1" />
         <entry key="features/feature-messenger/src/main/res/layout/item_chat_search.xml" value="0.24444444444444444" />
         <entry key="features/feature-messenger/src/main/res/layout/layout_panel_sticker.xml" value="0.24427083333333333" />
+        <entry key="features/feature-post-creator/src/main/res/layout/activity_post_creator.xml" value="1.0" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_fragment.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-detail/src/main/res/drawable/post_details_bg_input_comment.xml" value="0.2851851851851852" />
         <entry key="features/feature-post-detail/src/main/res/drawable/post_details_bottom_input_comment_bg.xml" value="0.2851851851851852" />

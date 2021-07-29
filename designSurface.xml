@@ -50,6 +50,7 @@
         <entry key="tv/src/main/res/layout/home_fragment.xml" value="0.24375" />
         <entry key="tv/src/main/res/layout/home_trending_item.xml" value="0.4169230769230769" />
         <entry key="tv/src/main/res/layout/home_trending_media_item.xml" value="0.24375" />
+        <entry key="tv/src/main/res/layout/host_activity.xml" value="0.2984375" />
         <entry key="tv/src/main/res/layout/lb_picker_item.xml" value="0.4169230769230769" />
         <entry key="tv/src/main/res/layout/lb_picker_separator.xml" value="0.4169230769230769" />
         <entry key="tv/src/main/res/layout/player_fragment.xml" value="0.24322916666666666" />

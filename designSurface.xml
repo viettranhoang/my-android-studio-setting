@@ -21,6 +21,7 @@
         <entry key="features/feature-post-creator/src/main/res/layout/activity_post_creator.xml" value="1.0" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_backgrounds_bottom_sheet_fragment.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_backgrounds_view.xml" value="0.24322916666666666" />
+        <entry key="features/feature-post-creator/src/main/res/layout/post_creator_content_input_layout.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_fragment.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_question_view.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_suggest_frames_view.xml" value="0.24322916666666666" />

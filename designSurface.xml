@@ -8,6 +8,7 @@
         <entry key="app/src/main/res/layout/popupwindow.xml" value="0.4234375" />
         <entry key="common/src/main/res/drawable/bg_click_round.xml" value="0.5776041666666667" />
         <entry key="common/src/main/res/layout/question_view.xml" value="0.5625" />
+        <entry key="common/src/main/res/layout/request_ask_view.xml" value="0.5625" />
         <entry key="features/feature-messenger/src/main/res/layout/activity_chat.xml" value="0.24427083333333333" />
         <entry key="features/feature-messenger/src/main/res/layout/component_input_comment_view.xml" value="0.24427083333333333" />
         <entry key="features/feature-messenger/src/main/res/layout/group_named_fragment.xml" value="0.1" />
@@ -19,11 +20,16 @@
         <entry key="features/feature-post-background/src/main/res/layout/item_backgound_default_main_item.xml" value="0.5625" />
         <entry key="features/feature-post-background/src/main/res/layout/pop_up_friend_privacy_tip_background.xml" value="0.5625" />
         <entry key="features/feature-post-creator/src/main/res/layout/activity_post_creator.xml" value="1.0" />
+        <entry key="features/feature-post-creator/src/main/res/layout/layout_post_not_found.xml" value="0.5625" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_backgrounds_bottom_sheet_fragment.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_backgrounds_view.xml" value="0.24322916666666666" />
+        <entry key="features/feature-post-creator/src/main/res/layout/post_creator_ask_me_view.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_content_input_layout.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_fragment.xml" value="0.24322916666666666" />
+        <entry key="features/feature-post-creator/src/main/res/layout/post_creator_medias_view.xml" value="0.24322916666666666" />
+        <entry key="features/feature-post-creator/src/main/res/layout/post_creator_preview_link_view.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_question_view.xml" value="0.24322916666666666" />
+        <entry key="features/feature-post-creator/src/main/res/layout/post_creator_share_post_view.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_suggest_frames_view.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-detail/src/main/res/drawable/post_details_bg_input_comment.xml" value="0.2851851851851852" />
         <entry key="features/feature-post-detail/src/main/res/drawable/post_details_bottom_input_comment_bg.xml" value="0.2851851851851852" />
@@ -44,6 +50,10 @@
         <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_radio.xml" value="0.387037037037037" />
         <entry key="libraries/library-poll-vote/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="libraries/library-poll-vote/src/main/res/layout/poll_vote_item_view.xml" value="0.5206786850477201" />
+        <entry key="shared/shared-feed/src/main/res/layout/photo_post_view.xml" value="1.0" />
+        <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_let_ask_me_item.xml" value="0.5625" />
+        <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_media_image_item.xml" value="0.5625" />
+        <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_preview_link_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_question_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_slider_fragment.xml" value="0.4234375" />
         <entry key="shared/shared-poll-vote/src/main/res/drawable/feeds_post_bg_bottom_sheet_white_rounded_top_right_left.xml" value="0.2515625" />

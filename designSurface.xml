@@ -38,7 +38,8 @@
         <entry key="features/feature-post-detail/src/main/res/drawable/post_details_ic_arrow_left_24dp_black.xml" value="0.2851851851851852" />
         <entry key="features/feature-post-detail/src/main/res/layout/comment_bottom_sheet_dialog_fragment.xml" value="0.5625" />
         <entry key="features/feature-post-detail/src/main/res/layout/comment_input_layout.xml" value="0.4169230769230769" />
-        <entry key="features/feature-post-detail/src/main/res/layout/post_details_fragment.xml" value="0.24444444444444444" />
+        <entry key="features/feature-post-detail/src/main/res/layout/post_details_error_layout.xml" value="0.3640625" />
+        <entry key="features/feature-post-detail/src/main/res/layout/post_details_fragment.xml" value="0.3640625" />
         <entry key="features/feature-tooltips/src/main/res/layout/tooltips_comon_intro_layout.xml" value="0.24791666666666667" />
         <entry key="features/feature-tooltips/src/main/res/layout/tooltips_home_start_layout.xml" value="0.24791666666666667" />
         <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_bg_avatar.xml" value="0.43854166666666666" />

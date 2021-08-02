@@ -19,6 +19,7 @@
         <entry key="features/feature-post-background/src/main/res/layout/dialog_backgrounds_main.xml" value="0.5625" />
         <entry key="features/feature-post-background/src/main/res/layout/item_backgound_default_main_item.xml" value="0.5625" />
         <entry key="features/feature-post-background/src/main/res/layout/pop_up_friend_privacy_tip_background.xml" value="0.5625" />
+        <entry key="features/feature-post-by-friend/src/main/res/layout/post_by_friend_fragment.xml" value="0.24479166666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/activity_post_creator.xml" value="1.0" />
         <entry key="features/feature-post-creator/src/main/res/layout/layout_post_not_found.xml" value="0.5625" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_backgrounds_bottom_sheet_fragment.xml" value="0.24322916666666666" />

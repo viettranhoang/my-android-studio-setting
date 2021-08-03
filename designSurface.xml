@@ -6,6 +6,7 @@
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.4169230769230769" />
         <entry key="app/src/main/res/layout/popupwindow.xml" value="0.4234375" />
+        <entry key="common/src/main/res/drawable/background_privacy.xml" value="0.43854166666666666" />
         <entry key="common/src/main/res/drawable/bg_click_round.xml" value="0.5776041666666667" />
         <entry key="common/src/main/res/layout/question_view.xml" value="0.5625" />
         <entry key="common/src/main/res/layout/request_ask_view.xml" value="0.5625" />
@@ -26,7 +27,9 @@
         <entry key="features/feature-post-creator/src/main/res/drawable/ic_link_remove.xml" value="0.33796296296296297" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_circle_white.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_preview_link_text.xml" value="0.43854166666666666" />
+        <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_privacy.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_ic_background_text.xml" value="0.43854166666666666" />
+        <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_ic_tag.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/activity_post_creator.xml" value="1.0" />
         <entry key="features/feature-post-creator/src/main/res/layout/activity_tag_users.xml" value="0.1" />
         <entry key="features/feature-post-creator/src/main/res/layout/layout_post_not_found.xml" value="0.5625" />
@@ -38,8 +41,8 @@
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_fragment.xml" value="0.4234375" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_medias_view.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_preview_link_view.xml" value="0.4234375" />
-        <entry key="features/feature-post-creator/src/main/res/layout/post_creator_question_view.xml" value="0.24322916666666666" />
-        <entry key="features/feature-post-creator/src/main/res/layout/post_creator_share_post_view.xml" value="0.24322916666666666" />
+        <entry key="features/feature-post-creator/src/main/res/layout/post_creator_question_view.xml" value="0.4234375" />
+        <entry key="features/feature-post-creator/src/main/res/layout/post_creator_share_post_view.xml" value="0.4234375" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_suggest_frames_view.xml" value="0.24322916666666666" />
         <entry key="features/feature-post-creator/src/main/res/layout/post_creator_user_info_view.xml" value="0.4234375" />
         <entry key="features/feature-post-detail/src/main/res/drawable/post_details_bg_input_comment.xml" value="0.2851851851851852" />

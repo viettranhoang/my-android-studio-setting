@@ -29,6 +29,7 @@
         <entry key="features/feature-post-creator/src/main/res/drawable/ic_link_remove.xml" value="0.33796296296296297" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_bottom_sheet_white_rounded_top_right_left.xml" value="0.23697916666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_circle_white.xml" value="0.43854166666666666" />
+        <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_place_holder.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_post_background.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_post_background_selected.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_preview_link_text.xml" value="0.43854166666666666" />

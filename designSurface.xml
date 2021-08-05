@@ -90,6 +90,7 @@
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_media_image_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_preview_link_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_question_item.xml" value="0.5625" />
+        <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_sharing_bottom_sheet_fragment.xml" value="0.4234375" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_slider_fragment.xml" value="0.4234375" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_story_media_item.xml" value="0.24322916666666666" />
         <entry key="shared/shared-poll-vote/src/main/res/drawable/feeds_post_bg_bottom_sheet_white_rounded_top_right_left.xml" value="0.2515625" />

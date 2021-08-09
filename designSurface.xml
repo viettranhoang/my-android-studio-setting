@@ -79,6 +79,7 @@
         <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_bg_item.xml" value="0.43854166666666666" />
         <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_bg_item_selected.xml" value="0.43854166666666666" />
         <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_bg_item_unselected.xml" value="0.43854166666666666" />
+        <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_bg_poll_view.xml" value="0.4317948717948718" />
         <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_bg_vote_percent.xml" value="0.43854166666666666" />
         <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_bg_vote_percent_full_corners.xml" value="0.43854166666666666" />
         <entry key="libraries/library-poll-vote/src/main/res/drawable/poll_vote_ic_three_dot.xml" value="0.43854166666666666" />

@@ -4,7 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="fdsf" type="PLAIN_TEXT" />
-      <mapping pattern=".analysis_options" type="YAML" />
+      <mapping pattern="post_creator_bg_edit_photo_button.xml" type="XML" />
     </extensionMap>
   </component>
 </application>

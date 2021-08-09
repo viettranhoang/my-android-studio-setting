@@ -92,6 +92,7 @@
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_compose_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_let_ask_me_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_media_image_item.xml" value="0.5625" />
+        <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_post_background_item.xml" value="0.4234375" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_preview_link_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_question_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_sharing_bottom_sheet_fragment.xml" value="0.4234375" />

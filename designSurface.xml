@@ -30,11 +30,12 @@
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_bottom_sheet_white_rounded_top_right_left.xml" value="0.23697916666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_circle_tertiary.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_circle_white.xml" value="0.43854166666666666" />
-        <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_edit_photo_button.xml" value="0.2296875" />
+        <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_edit_photo_button.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_place_holder.xml" value="0.43854166666666666" />
+        <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_poll_duo_date_text.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_post_background.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_post_background_selected.xml" value="0.43854166666666666" />
-        <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_post_no_background.xml" value="0.2296875" />
+        <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_post_no_background.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_preview_link_text.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_privacy.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_ic_ask_gray.xml" value="0.24791666666666667" />

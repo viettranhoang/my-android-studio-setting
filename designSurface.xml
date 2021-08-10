@@ -40,6 +40,7 @@
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_bg_privacy.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_ic_ask_gray.xml" value="0.24791666666666667" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_ic_background_text.xml" value="0.43854166666666666" />
+        <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_ic_poll.xml" value="0.43854166666666666" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_ic_privacy_workspace_only.xml" value="0.240625" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_ic_privacy_workspace_only_gray.xml" value="0.1" />
         <entry key="features/feature-post-creator/src/main/res/drawable/post_creator_ic_tag.xml" value="0.43854166666666666" />

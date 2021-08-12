@@ -108,6 +108,7 @@
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_compose_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_achievement_item.xml" value="0.4234375" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_attachment_item.xml" value="0.4234375" />
+        <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_header_item.xml" value="0.4234375" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_let_ask_me_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_media_image_item.xml" value="0.5625" />
         <entry key="shared/shared-feeds-core/src/main/res/layout/feeds_post_media_list_item.xml" value="0.4234375" />

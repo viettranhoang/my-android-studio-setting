@@ -7,6 +7,7 @@
       <mapping pattern="fdsf" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping pattern="post_creator_bg_edit_photo_button.xml" type="XML" />
+      <mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="psd" approved="true" type="Image" />
     </extensionMap>

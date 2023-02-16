@@ -8,6 +8,7 @@
       <mapping pattern=".env.default.gpg" type="PLAIN_TEXT" />
       <mapping pattern="fdsf" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping pattern="post_creator_bg_edit_photo_button.xml" type="XML" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
